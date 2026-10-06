@@ -17,7 +17,7 @@ Inicio (landing)
 │   ├── Tendencias & Estilo Streetwear
 │   ├── Guías de Tallas y Calce
 │   └── Cuidado de Prendas & Calidad
-├── Nos
+├── Nosotros
 ├── Contacto
 ├── Preguntas Frecuentes (FAQ)
 ├── Términos y Condiciones
