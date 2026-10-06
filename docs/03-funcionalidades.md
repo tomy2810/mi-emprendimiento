@@ -8,7 +8,9 @@
 Revisa sus necesidades y frustraciones: ahí suelen estar los objetivos. -->
 
 1.desea encontrar prendas de vestir con calces anchos (over-sized/streetwear) y de buena calidad que se adapten a sus gustos.
+
 2.quiere verificar las medidas exactas y guía de tallas antes de comprar para asegurar que la ropa le quede con el fit deseado.
+
 3.busca realizar una compra rápida y segura, conociendo el costo y tiempo exacto de envío de sus prendas.
 
 
