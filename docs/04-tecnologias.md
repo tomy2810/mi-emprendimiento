@@ -1,5 +1,4 @@
-# Tecnologías del proyecto — [Nombre del emprendimiento]
-
+# Tecnologías del proyecto — YIZU
 > Guía: [Tecnologías del proyecto](../evaluacion/guias/fase-1-requerimientos/04-tecnologias.md)
 
 ## Stack
