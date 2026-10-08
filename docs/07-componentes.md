@@ -20,3 +20,5 @@
 | Catálogo de productos | [Corteiz](https://www.crtz.xyz) | Fotografías de prendas, categorías laterales, nombres, precios y carrito. | Facilita la exploración y selección de productos disponibles. |
 | | | | |
 | Carrito de compras | [NO FAITH STUDIOS](https://www.nofaithstudios.com) | Estado del carrito, botón para continuar comprando y enlaces de atención al cliente. | Permite revisar el carrito y regresar a la tienda para continuar comprando. |
+
+![Avatar](img/Moodboard.jpg.png)
