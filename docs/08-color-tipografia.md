@@ -29,7 +29,9 @@
 ## Tipografía
 
 - **Títulos:** [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue) — tipografía condensada, de estilo urbano y gran impacto visual. Se utilizará en títulos principales, colecciones y campañas.
+- ![Avatar](img/Bebas-neu.jpg)
 - **Textos:** [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) — tipografía pixelada de estética retro y digital. Se utilizará en frases destacadas, etiquetas y elementos gráficos de YIZU.
+- ![Avatar](img/Press-start-2P.jpg)
 
 | Elemento | Desktop | Mobile | Peso |
 |---|---|---|---|
