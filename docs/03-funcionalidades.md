@@ -7,11 +7,11 @@
 <!-- Qué quiere lograr tu proto-persona cuando entra a tu sitio.
 Revisa sus necesidades y frustraciones: ahí suelen estar los objetivos. -->
 
-1.desea encontrar prendas de vestir con calces anchos (over-sized/streetwear) y de buena calidad que se adapten a sus gustos.
+1. Encontrar prendas de vestir urbanas y oversized de buena calidad, explorando las opciones disponibles según sus gustos y estilo personal.
 
-2.quiere verificar las medidas exactas y guía de tallas antes de comprar para asegurar que la ropa le quede con el fit deseado.
+2. Consultar información detallada de los productos, especialmente tallas, medidas y características, para elegir prendas con el ajuste deseado.
 
-3.busca realizar una compra rápida y segura, conociendo el costo y tiempo exacto de envío de sus prendas.
+3. Realizar una compra rápida, segura e informada, conociendo previamente la disponibilidad, el costo total y las condiciones de envío.
 
 
 ## Funcionalidades
