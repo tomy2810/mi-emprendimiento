@@ -22,7 +22,7 @@
 | Vista de detalle de productos | Funcional |
 | Carrito de compras visual | Prototipo visual |
 | Proceso de pago (Checkout) | Prototipo visual |
-| Formulario de contacto | Funcional |
+| Formulario de contacto | Prototipo visual |
 
 ## Integraciones para una versión real
 - Pasarela de pago en línea (Webpay, Flow o Stripe).
@@ -32,7 +32,8 @@
 
 
 ## Restricciones
-
-- **Plazo:** Entrega dentro del calendario académico del proyecto.
-- **Marca:** YIZU (Enfoque en identidad visual y catálogo de vestuario).
-- **Dispositivos:** Optimizado para pantallas móviles y computadores de escritorio.
+- **Recursos de desarrollo:** El proyecto utilizará herramientas y recursos gratuitos, evitando servicios que requieran suscripciones o pagos adicionales.
+- **Alcance técnico:** El proyecto se limitará a una interfaz web sin backend ni base de datos funcional.
+- **Pagos y envíos:** El carrito, el checkout y los cálculos de despacho serán simulaciones visuales, sin transacciones reales.
+- **Formulario de contacto:** Se presentará como prototipo visual, sin envío ni almacenamiento de datos.
+- **Dispositivos:** El diseño deberá adaptarse a pantallas móviles y de escritorio, manteniendo una navegación clara y accesible.
