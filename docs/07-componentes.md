@@ -21,4 +21,4 @@
 | | | | |
 | Carrito de compras | [NO FAITH STUDIOS](https://www.nofaithstudios.com) | Estado del carrito, botón para continuar comprando y enlaces de atención al cliente. | Permite revisar el carrito y regresar a la tienda para continuar comprando. |
 
-![Avatar](img/Moodboard.jpg.png)
+![Avatar](img/Moodboard.png)
