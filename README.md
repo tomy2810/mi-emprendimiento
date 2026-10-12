@@ -1,4 +1,4 @@
-# [Nombre del emprendimiento] — Sitio web
+YIZU — Sitio web
 
 [Descripción del emprendimiento en una o dos líneas.]
 Incluye landing, blog y prototipo de tienda online.
