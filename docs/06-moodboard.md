@@ -4,7 +4,7 @@
 
 **Tablero en Whimsical:** https://whimsical.com/tomy-s3/yizu-zmn9vjwFdWNS2guEyx9C6
 
-<!-- Captura: guárdala en docs/img/ y enlázala así: ![Moodboard](img/moodboard.png) -->
+![Moodboard](img/Moodboard.png) 
 
 ## Palabras clave
 Streetwear · Agreste · Outdoor · Técnico · Camuflaje · Urbano · Experimental · Funcional · Naturaleza · Contemporáneo
