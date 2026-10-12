@@ -23,7 +23,7 @@ Prioridad: Imprescindible / Deseable / Futuro. -->
 | Proto-persona | Objetivo | Funcionalidad | Tipo | Prioridad |
 |---|---|---|---|---|
 | Mateo Silva | Recibir ofertas y novedades de lanzamientos | El usuario debe poder dejar sus datos para recibir novedades sobre lanzamientos de YIZU | Base (landing) | Deseable |
-| Mateo Silva | Explorar el catálogo de ropa por tipo de prenda | El usuario debe poder navegar los artículos por categoría (poleras, pantalones, polerones) | Base (blog/tienda) | Imprescindible |
+| Mateo Silva | Explorar el catálogo de ropa por tipo de prenda | El usuario debe poder navegar los artículos por categoría (poleras, pantalones, polerones) | Base (tienda) | Imprescindible |
 | Mateo Silva | Opinión e interacción en publicaciones | El usuario debe poder comentar un artículo o publicación del blog | Base (blog) | Deseable |
 | Mateo Silva | Compartir outfits o prendas de interés | El usuario debe poder compartir un artículo o producto en sus redes sociales | Base (blog/tienda) | Deseable |
 | Mateo Silva | Encontrar una prenda específica rápidamente | El usuario debe poder buscar productos por nombre o palabra clave | Base (tienda) | Imprescindible |
