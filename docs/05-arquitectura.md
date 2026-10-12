@@ -32,13 +32,14 @@ Inicio (landing)
 ### Flujo 1: compra
 
 ```text
-Instagram / Feed -> Landing Page -> [Ver catálogo en Tienda] -> Seleccionar producto (ej. Pantalón Wide Leg) -> Ficha de producto -> [Seleccionar Talla y Color] -> [Agregar al carrito] -> Vista Carrito -> [Proceder al Pago] -> Formulario de Envío -> Checkout / Pasarela de Pago -> Confirmación de Compra
+Instagram / Feed -> Landing Page -> [Ver colección] -> Tienda -> [Seleccionar producto (ej. Pantalón Wide Leg)] -> Ficha de producto -> [Seleccionar talla y color] -> [Agregar al carrito] -> Carrito -> [Seguir comprando] -> Tienda
+
 ```
 
 ### Flujo 2: contenido
 
 ```text
-Buscador / Redes Sociales -> Artículo de Blog ("Cómo combinar pantalones muy anchos con zapatillas") -> Lectura del contenido -> [Clic en producto recomendado en la nota] -> Ficha de producto -> [Agregar al carrito] / [Ir a Contacto por consultas de calce]
+Landing Page -> [Blog] -> Blog -> [Leer artículo] -> Artículo -> [Volver al blog] -> Blog
 ```
 
 ## Categorías
