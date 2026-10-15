@@ -285,6 +285,7 @@ Componentes de arriba hacia abajo:
    - Estado disabled cuando no se selecciona talla.
 
 7. Información adicional:
+   - Sección "3 ARTICULOS". 
 
    - Sección desplegable "DESCRIPCIÓN".
 
